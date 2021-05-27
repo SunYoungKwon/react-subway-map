@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/react-subway-map/static/js/main.7164d59f.chunk.js",
-    "main.js.map": "/react-subway-map/static/js/main.7164d59f.chunk.js.map",
+    "main.js": "/react-subway-map/static/js/main.c635ddb0.chunk.js",
+    "main.js.map": "/react-subway-map/static/js/main.c635ddb0.chunk.js.map",
     "runtime-main.js": "/react-subway-map/static/js/runtime-main.e5f3d9df.js",
     "runtime-main.js.map": "/react-subway-map/static/js/runtime-main.e5f3d9df.js.map",
     "static/js/2.4b973387.chunk.js": "/react-subway-map/static/js/2.4b973387.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.e5f3d9df.js",
     "static/js/2.4b973387.chunk.js",
-    "static/js/main.7164d59f.chunk.js"
+    "static/js/main.c635ddb0.chunk.js"
   ]
 }
